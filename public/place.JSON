@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "Coxs Bazar",
+        "cost": 3000,
+        "categori": "World Longest Beach",
+        "district": "Cox Bazar",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2021March/en/Coxs-bazar-beach-2104020359.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Inani Beach",
+        "cost": 400,
+        "categori": "Sea Beach",
+        "district": "Cox Bazar",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://image.shutterstock.com/image-photo/coxs-bazar-chittagong-bangladesh-6172017-260nw-1189314049.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Saintrmartin",
+        "cost": 7000,
+        "categori": "Iseland",
+        "district": "cox Bazar",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://everestholidays.com.bd/wp-content/uploads/2019/10/Saint-martin.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sajek",
+        "cost": 5000,
+        "categori": "Hill",
+        "district": "Rangamati",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://thefinancialexpress.com.bd/uploads/1623685867.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bandarban",
+        "cost": 4000,
+        "categori": "Hill with Clouds",
+        "district": "Bandarban",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://www.daily-sun.com/assets/news_images/2016/06/27/Daily-Sun-Magazine-18.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Kaptai",
+        "cost": 2000,
+        "categori": "Heilly resort",
+        "district": "Rangamati",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://media-eng.dhakatribune.com/uploads/2019/01/web-rangamati-syed-zakir-hossai-1540382280927-1547127273108.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Nill Ghiri",
+        "cost": 4000,
+        "categori": "Hill Camp",
+        "district": "Bandarban",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://dailyasianage.com/library/1575920575_6.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sundarban Forest",
+        "cost": 4300,
+        "categori": "Mangrove Forest",
+        "district": "Sundarban",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://media-eng.dhakatribune.com/uploads/2020/09/9-new-project-1599296482873.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tea world Srimongol",
+        "cost": 3500,
+        "categori": "Tea State",
+        "district": "Srimongol",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "http://tourtoday.com.bd/wp-content/uploads/2017/07/Malonichora-tea-garden-best-tourist-place-in-sylhet.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ratar Gol",
+        "cost": 2800,
+        "categori": "Swamp forest",
+        "district": "Sylhet",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "http://www.travelmate.com.bd/wp-content/uploads/2019/07/Ratargul-2.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Tanguyar haour",
+        "cost": 2900,
+        "categori": "Hawor",
+        "district": "Sunamgonj",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/1b/55/95/3e/tanguar-haor-situated.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Chandranath Pahar",
+        "cost": 900,
+        "categori": "Hill View",
+        "district": "Chittagong",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/686839iB765D18B427EBE92/image-size/large?v=v2&px=999"
+    },
+    {
+        "id": 14,
+        "name": "Sitakundho",
+        "cost": 900,
+        "categori": "Waterfall",
+        "district": "Chittagong",
+        "region": "BD",
+        "description": "A travel journal is not complete without photos and maps! Click on a grey area and add an image, picture or map. You can drag pins on the map to indicate certain locations or specify an entire travel route.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Shaki_Waterfall2.jpg"
+    }
+]
